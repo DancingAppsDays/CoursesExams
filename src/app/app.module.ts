@@ -8,7 +8,7 @@ import { Quiz1Component } from './component/quiz1/quiz1.component';
 import { ListaestudiantesComponent } from './component/admin/listaestudiantes/listaestudiantes.component';
 import { FilterpipePipe } from './service/filterpipe.pipe';
 import { FormsModule } from '@angular/forms';
-import { HttpClientModule } from '@angular/common/http';
+import {} from '@angular/common/http';
 
 import { NgxPaginationModule } from 'ngx-pagination';
 
